@@ -1,5 +1,5 @@
-a=90
-b=70
-c=a+b
+x=90
+y=70
+z=x+y
 
-print("the value of c is", c)
+print("the value of z is", z)
